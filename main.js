@@ -6,4 +6,8 @@ function suma(num1, num2){
 function  resta(num1, num2){
 	let resultado = num1 - num2;
 	return resultado;
-}//suma
+}//resta
+function  multiplicacion(num1, num2){
+	let resultado = num1 * num2;
+	return resultado;
+}//multiplicacion
